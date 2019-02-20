@@ -1,2 +1,2 @@
 # manishakotha.github.io
-mypersonal web blog
+my personal webpage
